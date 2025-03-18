@@ -15,3 +15,7 @@
 Walter Salcedo
 
 ### Linkedin: https://www.linkedin.com/in/walter-salcedo-inca-01160542/
+
+## Agradecimiento
+
+Un agradecimiento especial a Barbara Santos del equipo de Alura Latam
