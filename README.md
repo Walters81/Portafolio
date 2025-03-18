@@ -19,4 +19,4 @@ Walter Salcedo
 
 ## Agradecimiento
 
-Un agradecimiento especial a Barbara Santos del equipo de Alura Latam
+Un agradecimiento especial a Barbara dos Santos del equipo de Alura Latam
